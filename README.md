@@ -31,7 +31,7 @@ https://github.com/SEU-USUARIO/SEU-REPOSITORIO
 ### Passos
 1. Clonar o repositorio:
 	```
-	git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+	git clone https://github.com/AquelePanda07/GestaoVoluntarios.git
 	```
 2. Entrar na pasta do projeto:
 	```bash
