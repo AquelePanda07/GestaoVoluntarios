@@ -13,7 +13,7 @@ O sistema permite autenticar usuarios, cadastrar novos voluntarios e consultar r
 Tambem e possivel editar e excluir voluntarios, mantendo os dados sempre consistentes para tomada de decisao.
 Os principais dados gerenciados sao: nome do voluntario, lotacao, tempo de atuacao, imagem, dados de usuario (nome, e-mail e senha) e historico de registros no banco.
 
-## 4. Funcionalidade aplicada ao tema escolhido pela dupla
+## 4. Funcionalidade aplicada ao tema
 A funcionalidade principal aplicada ao tema e o CRUD completo de voluntarios integrado a autenticacao de usuarios.
 Na pratica, o sistema permite cadastrar, listar, atualizar e excluir voluntarios, com interface em Flutter e integracao com API PHP.
 Isso facilita a gestao diaria da equipe de voluntariado e reduz o controle manual em planilhas.
@@ -55,5 +55,4 @@ https://github.com/AquelePanda07/GestaoVoluntarios.git
 	```
 
 ## 7. Link do video no YouTube (nao listado)
-Preencher com o link do video nao listado:
-https://www.youtube.com/watch?v=SEU_VIDEO_ID
+https://www.youtube.com/watch?v=1c-5QsSrT8s
