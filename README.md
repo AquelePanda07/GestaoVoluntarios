@@ -20,7 +20,7 @@ Isso facilita a gestao diaria da equipe de voluntariado e reduz o controle manua
 
 ## 5. Link do repositorio publico no GitHub
 Preencher com o link oficial do repositorio:
-https://github.com/SEU-USUARIO/SEU-REPOSITORIO
+https://github.com/AquelePanda07/GestaoVoluntarios.git
 
 ## 6. Passo a passo para clonar e rodar o projeto
 
